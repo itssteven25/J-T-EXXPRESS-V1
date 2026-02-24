@@ -186,4 +186,5 @@ ini_set('display_errors', 1);
 For issues and questions, please contact the development team or check the documentation.
 
 ---
+
 © 2026 J&T Express. All rights reserved.
